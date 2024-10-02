@@ -1,2 +1,1 @@
-# Nextjs_ChatUI
-Nextjs Chat UI Example
+### Next.js LLM Chat Example
